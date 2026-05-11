@@ -8,9 +8,6 @@ Backend Developer • Node.js • Express.js • MongoDB
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Backend+Developer;Building+Scalable+REST+APIs;Node.js+%7C+Express.js+%7C+MongoDB;Always+Learning+New+Technologies" />
 </p>
 
-<p align="center">
-  <img width="280" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
-</p>
 
 ---
 
