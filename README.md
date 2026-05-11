@@ -10,7 +10,7 @@ Backend Developer • Node.js • Express.js • MongoDB
 
 ---
 
-<img align="right" alt="coding" width="340" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
+<img align="right" alt="coding" width="350" src="https://user-images.githubusercontent.com/74038190/212744275-c56a72c2-5e39-4e4c-b476-5b5e4.gif">
 
 # 🖤 About Me
 
@@ -18,11 +18,11 @@ Backend Developer • Node.js • Express.js • MongoDB
 const shreya = {
     role: "Backend Developer",
 
-    backend: ["Node.js", "Express.js"],
+    backend: ["Node.js", "Express.js", "GraphQL"],
 
     database: ["MongoDB", "MySQL"],
 
-    languages: ["JavaScript", "Python", "Java"],
+    languages: ["JavaScript", "Python"],
 
     architecture: ["MVC Pattern", "REST APIs"],
 
@@ -44,6 +44,7 @@ const shreya = {
 ### 🚀 Backend
 ![NodeJS](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs)
 ![ExpressJS](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express)
+![GraphQL](https://img.shields.io/badge/GraphQL-000000?style=for-the-badge&logo=graphql)
 
 ---
 
