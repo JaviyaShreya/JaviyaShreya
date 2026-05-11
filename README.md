@@ -10,7 +10,7 @@ Backend Developer • Node.js • Express.js • MongoDB
 
 ---
 
-<img align="right" alt="coding" width="350" src="https://user-images.githubusercontent.com/74038190/212744275-c56a72c2-5e39-4e4c-b476-5b5e4.gif">
+<img align="right" alt="coding" width="320" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 # 🖤 About Me
 
@@ -42,6 +42,7 @@ const shreya = {
 # ⚙️ Tech Stack
 
 ### 🚀 Backend
+
 ![NodeJS](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs)
 ![ExpressJS](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express)
 ![GraphQL](https://img.shields.io/badge/GraphQL-000000?style=for-the-badge&logo=graphql)
@@ -49,19 +50,21 @@ const shreya = {
 ---
 
 ### 🗄️ Database
+
 ![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb)
 ![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql)
 
 ---
 
 ### 💻 Languages
+
 ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript)
 ![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python)
-![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk)
 
 ---
 
 ### 🛠️ Tools & Technologies
+
 ![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github)
 ![Postman](https://img.shields.io/badge/Postman-000000?style=for-the-badge&logo=postman)
@@ -71,15 +74,19 @@ const shreya = {
 # 🚀 Featured Projects
 
 ### 🌾 Kisan Store
+
 Backend-driven agriculture platform with secure authentication and database management.
 
 ### 💰 Budget Tracker
+
 Expense and inventory management system with REST APIs and real-time update handling.
 
 ### ♛ N Queens Game
+
 Logic-based puzzle application built using HTML, CSS, and JavaScript.
 
 ### 🍔 Food Delivery App
+
 Backend-integrated food ordering application with responsive workflow handling.
 
 ---
