@@ -8,9 +8,11 @@ Backend Developer • Node.js • Express.js • MongoDB
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Backend+Developer;Building+Scalable+REST+APIs;Node.js+%7C+Express.js+%7C+MongoDB;Always+Learning+New+Technologies" />
 </p>
 
----
+<p align="center">
+  <img width="280" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
+</p>
 
-<img align="right" alt="coding" width="320" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+---
 
 # 🖤 About Me
 
@@ -41,7 +43,7 @@ const shreya = {
 
 # ⚙️ Tech Stack
 
-### 🚀 Backend
+## 🚀 Backend
 
 ![NodeJS](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs)
 ![ExpressJS](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express)
@@ -49,21 +51,21 @@ const shreya = {
 
 ---
 
-### 🗄️ Database
+## 🗄️ Database
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb)
 ![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql)
 
 ---
 
-### 💻 Languages
+## 💻 Languages
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript)
 ![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python)
 
 ---
 
-### 🛠️ Tools & Technologies
+## 🛠️ Tools & Technologies
 
 ![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github)
@@ -73,19 +75,19 @@ const shreya = {
 
 # 🚀 Featured Projects
 
-### 🌾 Kisan Store
+## 🌾 Kisan Store
 
 Backend-driven agriculture platform with secure authentication and database management.
 
-### 💰 Budget Tracker
+## 💰 Budget Tracker
 
 Expense and inventory management system with REST APIs and real-time update handling.
 
-### ♛ N Queens Game
+## ♛ N Queens Game
 
 Logic-based puzzle application built using HTML, CSS, and JavaScript.
 
-### 🍔 Food Delivery App
+## 🍔 Food Delivery App
 
 Backend-integrated food ordering application with responsive workflow handling.
 
@@ -95,7 +97,9 @@ Backend-integrated food ordering application with responsive workflow handling.
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=JaviyaShreya&show_icons=true&theme=tokyonight" />
+</p>
 
+<p align="center">
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=JaviyaShreya&theme=tokyonight" />
 </p>
 
@@ -111,7 +115,7 @@ Backend-integrated food ordering application with responsive workflow handling.
 
 # 🌐 Connect With Me
 
-<p align="left">
+<p align="center">
 <a href="https://github.com/JaviyaShreya">
 <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github">
 </a>
